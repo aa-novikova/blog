@@ -35,8 +35,6 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-Анастасия Новикова, студентка первого курса направления Бизнес информатика
-
 interests:
   - Технологии
   - Стартапы
