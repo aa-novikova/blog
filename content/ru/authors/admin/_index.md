@@ -35,17 +35,20 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
+Анастасия Новикова, студентка первого курса направления Бизнес информатика
+
 interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+  - Технологии
+  - Стартапы
+  - Управление проектами
+  - Иностранные языки
 
 education:
   - area: Student
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-05-31
-    summary: 
+    summary: Студентка направления "Бизнес информатика", интересуюсь разработкой и внедрением IT решений в бизнес-процессы, а также анализом данных для принятия управленческих решений.
       
 work:
   - position: Student
@@ -54,44 +57,45 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: Участвую в учебных проектах, разрабатываю теоретические и практические задания, связанные с бизнес-информатикой и управлением данными.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
+# Add your own SVG icons to assets/media/icons/
 skills:
   - name: Хард скиллы
     items:
       - name: Python
-        description: ''
-        percent: 60
+        description: Знания в области программирования и разработки приложений.
+        percent: 70
         icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
-        icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: Data Analytics
+        description: Опыт в анализе данных с использованием инструментов Python и Excel.
+        percent: 65
+        icon: chart-line
+      - name: Управление проектами
+        description: Основы планирования и организации проектов с использованием современных подходов.
+        percent: 50
+        icon: project-diagram
   - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
-        description: ''
-        percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
+      - name: Путешествия
+        description: Любовь к путешествиям и изучению новых культур.
         percent: 80
+      - name: Йога
+        description: Регулярные занятия йогой для улучшения физического и психологического состояния.
+        percent: 90
+      - name: Изучение языков
+        description: Изучаю английский и испанский языки для расширения кругозора.
+        percent: 75
 
 languages:
   - name: Русский
     percent: 100
   - name: Английский
-    percent: 60
+    percent: 70
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
